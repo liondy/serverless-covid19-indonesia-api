@@ -1,0 +1,2497 @@
+[
+    {
+        "name": "Kota Tangerang Selatan",
+        "latitude": "-6.2888889",
+        "longitude": "106.71805559999999"
+    },
+    {
+        "name": "Kab. Banyuwangi",
+        "latitude": "-8.218611099999999",
+        "longitude": "114.36694440000001"
+    },
+    {
+        "name": "Kab. Madiun",
+        "latitude": "-7.627753",
+        "longitude": "111.50548300000001"
+    },
+    {
+        "name": "Kab. Ponorogo",
+        "latitude": "-7.867827",
+        "longitude": "111.466003"
+    },
+    {
+        "name": "Kab. Magetan",
+        "latitude": "-7.6493413",
+        "longitude": "111.33815929999999"
+    },
+    {
+        "name": "Kab. Pacitan",
+        "latitude": "-8.204614",
+        "longitude": "111.08769"
+    },
+    {
+        "name": "Kab. Ngawi",
+        "latitude": "-7.3899300000000006",
+        "longitude": "111.46193000000001"
+    },
+    {
+        "name": "Kab. Bangkalan",
+        "latitude": "-7.0306912",
+        "longitude": "112.7450068"
+    },
+    {
+        "name": "Kab. Kediri",
+        "latitude": "-7.809356",
+        "longitude": "112.03235600000001"
+    },
+    {
+        "name": "Kab. Bondowoso",
+        "latitude": "-7.917704",
+        "longitude": "113.813483"
+    },
+    {
+        "name": "Kab. Blitar",
+        "latitude": "-8.101441900000001",
+        "longitude": "112.16276200000001"
+    },
+    {
+        "name": "Kab. Trenggalek",
+        "latitude": "-8.05",
+        "longitude": "111.71666670000002"
+    },
+    {
+        "name": "Kab. Tulungagung",
+        "latitude": "-8.0666667",
+        "longitude": "111.9"
+    },
+    {
+        "name": "Kab. Nganjuk",
+        "latitude": "-7.602932000000001",
+        "longitude": "111.901808"
+    },
+    {
+        "name": "Kab. Situbondo",
+        "latitude": "-7.702534",
+        "longitude": "113.955605"
+    },
+    {
+        "name": "Kab. Malang",
+        "latitude": "-8.0495643",
+        "longitude": "112.68845490000001"
+    },
+    {
+        "name": "Kab. Jember",
+        "latitude": "-8.172357",
+        "longitude": "113.70030200000001"
+    },
+    {
+        "name": "Kab. Sumenep",
+        "latitude": "-6.925399900000001",
+        "longitude": "113.90606240000001"
+    },
+    {
+        "name": "Kab. Pasuruan",
+        "latitude": "-6.8623098",
+        "longitude": "108.8001936"
+    },
+    {
+        "name": "Kab. Pamekasan",
+        "latitude": "-7.1666667",
+        "longitude": "113.46666670000002"
+    },
+    {
+        "name": "Kab. Probolinggo",
+        "latitude": "-7.753964999999999",
+        "longitude": "113.210675"
+    },
+    {
+        "name": "Kab. Lumajang",
+        "latitude": "-8.137022",
+        "longitude": "113.226601"
+    },
+    {
+        "name": "Kab. Bojonegoro",
+        "latitude": "0.8826809999999999",
+        "longitude": "124.46695659999999"
+    },
+    {
+        "name": "Kab. Tuban",
+        "latitude": "-8.7493146",
+        "longitude": "115.17112979999999"
+    },
+    {
+        "name": "Kab. Lamongan",
+        "latitude": "-7.406153",
+        "longitude": "109.3946794"
+    },
+    {
+        "name": "Kab. Sidoarjo",
+        "latitude": "-7.453027799999999",
+        "longitude": "112.7173389"
+    },
+    {
+        "name": "Kab. Sampang",
+        "latitude": "-7.578255599999999",
+        "longitude": "109.2058436"
+    },
+    {
+        "name": "Kab. Mojokerto",
+        "latitude": "-7.488075",
+        "longitude": "112.427027"
+    },
+    {
+        "name": "Kab. Gresik",
+        "latitude": "-7.15665",
+        "longitude": "112.6555"
+    },
+    {
+        "name": "Kab. Jombang",
+        "latitude": "-7.546839500000001",
+        "longitude": "112.2264794"
+    },
+    {
+        "name": "Kota Mojokerto",
+        "latitude": "-7.472222200000001",
+        "longitude": "112.43361110000001"
+    },
+    {
+        "name": "Kota Surabaya",
+        "latitude": "-7.289166000000001",
+        "longitude": "112.734398"
+    },
+    {
+        "name": "Kota Madiun",
+        "latitude": "-7.629714",
+        "longitude": "111.513702"
+    },
+    {
+        "name": "Kota Blitar",
+        "latitude": "-8.1",
+        "longitude": "112.15"
+    },
+    {
+        "name": "Kota Malang",
+        "latitude": "-7.9818940000000005",
+        "longitude": "112.626503"
+    },
+    {
+        "name": "Kota Batu",
+        "latitude": "-7.8671",
+        "longitude": "112.5239"
+    },
+    {
+        "name": "Kota Pasuruan",
+        "latitude": "-7.644872",
+        "longitude": "112.903297"
+    },
+    {
+        "name": "Kota Kediri",
+        "latitude": "-7.816895",
+        "longitude": "112.011398"
+    },
+    {
+        "name": "Kota Probolinggo",
+        "latitude": "-7.756928",
+        "longitude": "113.211502"
+    },
+    {
+        "name": "Kab. Batanghari",
+        "latitude": "-1.7083921999999998",
+        "longitude": "103.0817903"
+    },
+    {
+        "name": "Kab. Bungo",
+        "latitude": "-1.6401337999999999",
+        "longitude": "101.8891721"
+    },
+    {
+        "name": "Kab. Kerinci",
+        "latitude": "-1.8720467",
+        "longitude": "101.4339148"
+    },
+    {
+        "name": "Kab. Merangin",
+        "latitude": "-2.1752789",
+        "longitude": "101.9804613"
+    },
+    {
+        "name": "Kab. Muaro Jambi",
+        "latitude": "-1.5966719999999999",
+        "longitude": "103.615799"
+    },
+    {
+        "name": "Kab. Sarolangun",
+        "latitude": "-2.2654937000000004",
+        "longitude": "102.69053259999998"
+    },
+    {
+        "name": "Kab. Tanjung Jabung Barat",
+        "latitude": "-1.2332121999999999",
+        "longitude": "103.79844279999999"
+    },
+    {
+        "name": "Kab. Tanjung Jabung Timur",
+        "latitude": "-1.3291598999999998",
+        "longitude": "103.89973"
+    },
+    {
+        "name": "Kab. Tebo",
+        "latitude": "-1.2592999",
+        "longitude": "102.3463875"
+    },
+    {
+        "name": "Kota Jambi",
+        "latitude": "-1.5966719999999999",
+        "longitude": "103.615799"
+    },
+    {
+        "name": "Kota Sungai Penuh",
+        "latitude": "-2.06314",
+        "longitude": "101.387199"
+    },
+    {
+        "name": "Kab. Simeulue",
+        "latitude": "2.583333",
+        "longitude": "96.083333"
+    },
+    {
+        "name": "Kab. Aceh Singkil",
+        "latitude": "2.3589458999999997",
+        "longitude": "97.87216"
+    },
+    {
+        "name": "Kab. Aceh Selatan",
+        "latitude": "3.3115056000000003",
+        "longitude": "97.3516558"
+    },
+    {
+        "name": "Kab. Aceh Tenggara",
+        "latitude": "3.3088665999999995",
+        "longitude": "97.6982272"
+    },
+    {
+        "name": "Kab. Aceh Timur",
+        "latitude": "5.255443",
+        "longitude": "95.9885456"
+    },
+    {
+        "name": "Kab. Aceh Tengah",
+        "latitude": "4.448264099999999",
+        "longitude": "96.8350999"
+    },
+    {
+        "name": "Kab. Aceh Barat",
+        "latitude": "4.4542745",
+        "longitude": "96.1526985"
+    },
+    {
+        "name": "Kab. Aceh Besar",
+        "latitude": "5.4529168",
+        "longitude": "95.4777811"
+    },
+    {
+        "name": "Kab. Pidie",
+        "latitude": "5.0742659",
+        "longitude": "95.94097099999999"
+    },
+    {
+        "name": "Kab. Bireuen",
+        "latitude": "5.18254",
+        "longitude": "96.89005"
+    },
+    {
+        "name": "Kab. Aceh Utara",
+        "latitude": "4.9786331",
+        "longitude": "97.2221421"
+    },
+    {
+        "name": "Kab. Aceh Barat Daya",
+        "latitude": "3.0512642999999997",
+        "longitude": "97.3368031"
+    },
+    {
+        "name": "Kab. Gayo Lues",
+        "latitude": "3.955165",
+        "longitude": "97.3516558"
+    },
+    {
+        "name": "Kab. Aceh Tamiang",
+        "latitude": "4.2328871",
+        "longitude": "98.0028892"
+    },
+    {
+        "name": "Kab. Nagan Raya",
+        "latitude": "4.124840600000001",
+        "longitude": "96.4929797"
+    },
+    {
+        "name": "Kab. Aceh Jaya",
+        "latitude": "4.7873684",
+        "longitude": "95.64579509999999"
+    },
+    {
+        "name": "Kab. Bener Meriah",
+        "latitude": "4.7748348",
+        "longitude": "97.0068393"
+    },
+    {
+        "name": "Kab. Pidie Jaya",
+        "latitude": "5.1548063",
+        "longitude": "96.195132"
+    },
+    {
+        "name": "Kota Banda Aceh",
+        "latitude": "5.55",
+        "longitude": "95.3166667"
+    },
+    {
+        "name": "Kota Sabang",
+        "latitude": "5.894692900000001",
+        "longitude": "95.3192982"
+    },
+    {
+        "name": "Kota Langsa",
+        "latitude": "4.48",
+        "longitude": "97.9633333"
+    },
+    {
+        "name": "Kota Lhokseumawe",
+        "latitude": "5.188055599999999",
+        "longitude": "97.14027779999999"
+    },
+    {
+        "name": "Kota Subulussalam",
+        "latitude": "2.6449927000000004",
+        "longitude": "98.0165205"
+    },
+    {
+        "name": "Kab. Nias",
+        "latitude": "-8.1712591",
+        "longitude": "113.7111274"
+    },
+    {
+        "name": "Kab. Mandailing Natal",
+        "latitude": "0.7432371999999999",
+        "longitude": "99.3673084"
+    },
+    {
+        "name": "Kab. Tapanuli Selatan",
+        "latitude": "1.5774933",
+        "longitude": "99.2785583"
+    },
+    {
+        "name": "Kab. Tapanuli Tengah",
+        "latitude": "1.8493298999999999",
+        "longitude": "98.704075"
+    },
+    {
+        "name": "Kab. Tapanuli Utara",
+        "latitude": "2.0405246",
+        "longitude": "99.10134980000001"
+    },
+    {
+        "name": "Kab. Toba Samosir",
+        "latitude": "2.3502397999999998",
+        "longitude": "99.2785583"
+    },
+    {
+        "name": "Kab. Labuhanbatu",
+        "latitude": "2.3439862999999996",
+        "longitude": "100.17032569999999"
+    },
+    {
+        "name": "Kab. Asahan",
+        "latitude": "2.8174722",
+        "longitude": "99.634135"
+    },
+    {
+        "name": "Kab. Simalungun",
+        "latitude": "2.9781612",
+        "longitude": "99.2785583"
+    },
+    {
+        "name": "Kab. Dairi",
+        "latitude": "2.8675801",
+        "longitude": "98.265058"
+    },
+    {
+        "name": "Kab. Karo",
+        "latitude": "3.1052909",
+        "longitude": "98.265058"
+    },
+    {
+        "name": "Kab. Deli Serdang",
+        "latitude": "3.4201802000000003",
+        "longitude": "98.704075"
+    },
+    {
+        "name": "Kab. Langkat",
+        "latitude": "3.8653915999999997",
+        "longitude": "98.3088441"
+    },
+    {
+        "name": "Kab. Nias Selatan",
+        "latitude": "0.7086091",
+        "longitude": "97.8286368"
+    },
+    {
+        "name": "Kab. Humbang Hasundutan",
+        "latitude": "2.1988507999999998",
+        "longitude": "98.5721016"
+    },
+    {
+        "name": "Kab. Pakpak Bharat",
+        "latitude": "2.545786",
+        "longitude": "98.299838"
+    },
+    {
+        "name": "Kab. Samosir",
+        "latitude": "2.5833333",
+        "longitude": "98.8166667"
+    },
+    {
+        "name": "Kab. Serdang Bedagai",
+        "latitude": "3.3371693999999996",
+        "longitude": "99.0571089"
+    },
+    {
+        "name": "Kab. Batu Bara",
+        "latitude": "3.1740979",
+        "longitude": "99.5006143"
+    },
+    {
+        "name": "Kab. Padang Lawas Utara",
+        "latitude": "1.5758644",
+        "longitude": "99.634135"
+    },
+    {
+        "name": "Kab. Padang Lawas",
+        "latitude": "1.1186976999999998",
+        "longitude": "99.8124935"
+    },
+    {
+        "name": "Kota Sibolga",
+        "latitude": "1.7403745",
+        "longitude": "98.7827988"
+    },
+    {
+        "name": "Kota Tanjung Balai",
+        "latitude": "2.965122",
+        "longitude": "99.800331"
+    },
+    {
+        "name": "Kota Pematang Siantar",
+        "latitude": "2.96",
+        "longitude": "99.06"
+    },
+    {
+        "name": "Kota Tebing Tinggi",
+        "latitude": "3.3856205000000004",
+        "longitude": "99.2009815"
+    },
+    {
+        "name": "Kota Medan",
+        "latitude": "3.585242",
+        "longitude": "98.6755979"
+    },
+    {
+        "name": "Kota Binjai",
+        "latitude": "3.594462",
+        "longitude": "98.48224599999999"
+    },
+    {
+        "name": "Kota Padangsidimpuan",
+        "latitude": "1.3804239999999999",
+        "longitude": "99.273972"
+    },
+    {
+        "name": "Kab. Kepulauan Mentawai",
+        "latitude": "-1.426001",
+        "longitude": "98.9245343"
+    },
+    {
+        "name": "Kab. Pesisir Selatan",
+        "latitude": "-1.7223147",
+        "longitude": "100.8903099"
+    },
+    {
+        "name": "Kab. Solok",
+        "latitude": "-0.803027",
+        "longitude": "100.644402"
+    },
+    {
+        "name": "Kab. Sijunjung",
+        "latitude": "-0.6881586",
+        "longitude": "100.997658"
+    },
+    {
+        "name": "Kab. Tanah Datar",
+        "latitude": "-0.4797043",
+        "longitude": "100.57462240000001"
+    },
+    {
+        "name": "Kab. Padang Pariaman",
+        "latitude": "-0.5546757",
+        "longitude": "100.2151578"
+    },
+    {
+        "name": "Kab. Agam",
+        "latitude": "-0.22093920000000003",
+        "longitude": "100.17032569999999"
+    },
+    {
+        "name": "Kab. Lima Puluh Kota",
+        "latitude": "3.168216",
+        "longitude": "99.4187929"
+    },
+    {
+        "name": "Kab. Pasaman",
+        "latitude": "0.1288752",
+        "longitude": "99.79017809999999"
+    },
+    {
+        "name": "Kab. Solok Selatan",
+        "latitude": "-1.4157329",
+        "longitude": "101.25237920000001"
+    },
+    {
+        "name": "Kab. Dharmas Raya",
+        "latitude": "-1.1120568000000002",
+        "longitude": "101.61577729999999"
+    },
+    {
+        "name": "Kab. Pasaman Barat",
+        "latitude": "0.2213005",
+        "longitude": "99.634135"
+    },
+    {
+        "name": "Kota Padang",
+        "latitude": "-0.95",
+        "longitude": "100.3530556"
+    },
+    {
+        "name": "Kota Solok",
+        "latitude": "-0.803027",
+        "longitude": "100.644402"
+    },
+    {
+        "name": "Kota Sawah Lunto",
+        "latitude": "-0.6810286",
+        "longitude": "100.7763604"
+    },
+    {
+        "name": "Kota Padang Panjang",
+        "latitude": "-0.470679",
+        "longitude": "100.4059456"
+    },
+    {
+        "name": "Kota Bukittinggi",
+        "latitude": "-0.3055556",
+        "longitude": "100.36916670000001"
+    },
+    {
+        "name": "Kota Payakumbuh",
+        "latitude": "-0.22887",
+        "longitude": "100.632301"
+    },
+    {
+        "name": "Kota Pariaman",
+        "latitude": "-0.6264389",
+        "longitude": "100.11795740000001"
+    },
+    {
+        "name": "Kab. Kuantan Singingi",
+        "latitude": "-0.44115959999999993",
+        "longitude": "101.5248055"
+    },
+    {
+        "name": "Kab. Indragiri Hulu",
+        "latitude": "-0.7361181",
+        "longitude": "102.25479190000001"
+    },
+    {
+        "name": "Kab. Indragiri Hilir",
+        "latitude": "-0.1456733",
+        "longitude": "102.989615"
+    },
+    {
+        "name": "Kab. Pelalawan",
+        "latitude": "0.44141499999999995",
+        "longitude": "102.088699"
+    },
+    {
+        "name": "Kab. S I A K",
+        "latitude": "-0.789275",
+        "longitude": "113.921327"
+    },
+    {
+        "name": "Kab. Kampar",
+        "latitude": "0.146671",
+        "longitude": "101.16173559999999"
+    },
+    {
+        "name": "Kab. Rokan Hulu",
+        "latitude": "1.0410934",
+        "longitude": "100.439656"
+    },
+    {
+        "name": "Kab. Bengkalis",
+        "latitude": "1.4897221999999999",
+        "longitude": "102.0797222"
+    },
+    {
+        "name": "Kab. Rokan Hilir",
+        "latitude": "1.6463978",
+        "longitude": "100.80000509999999"
+    },
+    {
+        "name": "Kota Pekanbaru",
+        "latitude": "0.5333333",
+        "longitude": "101.45"
+    },
+    {
+        "name": "Kota Dumai",
+        "latitude": "1.6657419999999998",
+        "longitude": "101.447601"
+    },
+    {
+        "name": "Kab. Batang Hari",
+        "latitude": "-1.7083921999999998",
+        "longitude": "103.0817903"
+    },
+    {
+        "name": "Kab. Ogan Komering Ulu",
+        "latitude": "-4.0283486",
+        "longitude": "104.0072348"
+    },
+    {
+        "name": "Kab. Ogan Komering Ilir",
+        "latitude": "-3.4559743999999997",
+        "longitude": "105.2194808"
+    },
+    {
+        "name": "Kab. Muara Enim",
+        "latitude": "-3.6515809999999997",
+        "longitude": "103.770798"
+    },
+    {
+        "name": "Kab. Lahat",
+        "latitude": "-3.7863888999999995",
+        "longitude": "103.5427778"
+    },
+    {
+        "name": "Kab. Musi Rawas",
+        "latitude": "-2.8625305",
+        "longitude": "102.989615"
+    },
+    {
+        "name": "Kab. Musi Banyuasin",
+        "latitude": "-2.5442028999999997",
+        "longitude": "103.7289167"
+    },
+    {
+        "name": "Kab. Banyu Asin",
+        "latitude": "-2.6095639",
+        "longitude": "104.7520939"
+    },
+    {
+        "name": "Kab. Ogan Komering Ulu Selatan",
+        "latitude": "-4.668195099999999",
+        "longitude": "104.0072348"
+    },
+    {
+        "name": "Kab. Ogan Komering Ulu Timur",
+        "latitude": "-3.8567934",
+        "longitude": "104.7520939"
+    },
+    {
+        "name": "Kab. Ogan Ilir",
+        "latitude": "-3.4265440000000003",
+        "longitude": "104.61214749999999"
+    },
+    {
+        "name": "Kab. Empat Lawang",
+        "latitude": "-3.7286029000000003",
+        "longitude": "102.8975098"
+    },
+    {
+        "name": "Kota Palembang",
+        "latitude": "-2.9911083",
+        "longitude": "104.7567333"
+    },
+    {
+        "name": "Kota Prabumulih",
+        "latitude": "-3.440956",
+        "longitude": "104.23539699999999"
+    },
+    {
+        "name": "Kota Pagar Alam",
+        "latitude": "-4.037669999999999",
+        "longitude": "103.265297"
+    },
+    {
+        "name": "Kota Lubuklinggau",
+        "latitude": "-3.2966667000000003",
+        "longitude": "102.8616667"
+    },
+    {
+        "name": "Kab. Bengkulu Selatan",
+        "latitude": "-4.324840900000001",
+        "longitude": "103.03569399999999"
+    },
+    {
+        "name": "Kab. Rejang Lebong",
+        "latitude": "-3.4548154",
+        "longitude": "102.6675575"
+    },
+    {
+        "name": "Kab. Bengkulu Utara",
+        "latitude": "-3.4219555",
+        "longitude": "102.1632718"
+    },
+    {
+        "name": "Kab. Kaur",
+        "latitude": "-4.6792278",
+        "longitude": "103.4511768"
+    },
+    {
+        "name": "Kab. Seluma",
+        "latitude": "-4.062292899999999",
+        "longitude": "102.5642261"
+    },
+    {
+        "name": "Kab. Mukomuko",
+        "latitude": "-2.5760002999999996",
+        "longitude": "101.11698050000001"
+    },
+    {
+        "name": "Kab. Lebong",
+        "latitude": "-2.9926169999999996",
+        "longitude": "104.382202"
+    },
+    {
+        "name": "Kab. Kepahiang",
+        "latitude": "-3.6514309999999996",
+        "longitude": "102.578201"
+    },
+    {
+        "name": "Kota Bengkulu",
+        "latitude": "-3.7955556000000006",
+        "longitude": "102.25916670000001"
+    },
+    {
+        "name": "Kab. Lampung Barat",
+        "latitude": "-5.149039599999999",
+        "longitude": "104.19309179999999"
+    },
+    {
+        "name": "Kab. Tanggamus",
+        "latitude": "-5.3027489",
+        "longitude": "104.5655273"
+    },
+    {
+        "name": "Kab. Lampung Selatan",
+        "latitude": "-5.562261400000001",
+        "longitude": "105.54743729999998"
+    },
+    {
+        "name": "Kab. Lampung Timur",
+        "latitude": "-5.1134995000000005",
+        "longitude": "105.68817879999999"
+    },
+    {
+        "name": "Kab. Lampung Tengah",
+        "latitude": "-4.8008086",
+        "longitude": "105.3131185"
+    },
+    {
+        "name": "Kab. Lampung Utara",
+        "latitude": "-4.8133905",
+        "longitude": "104.7520939"
+    },
+    {
+        "name": "Kab. Way Kanan",
+        "latitude": "-4.4963689",
+        "longitude": "104.5655273"
+    },
+    {
+        "name": "Kab. Tulangbawang",
+        "latitude": "-4.3176575999999995",
+        "longitude": "105.5005483"
+    },
+    {
+        "name": "Kab. Pesawaran",
+        "latitude": "-5.493245",
+        "longitude": "105.0791228"
+    },
+    {
+        "name": "Kota Bandar Lampung",
+        "latitude": "-5.45",
+        "longitude": "105.26666670000002"
+    },
+    {
+        "name": "Kota Metro",
+        "latitude": "-5.116666700000001",
+        "longitude": "105.3"
+    },
+    {
+        "name": "Kab. Bangka",
+        "latitude": "-2.2884782",
+        "longitude": "106.0640179"
+    },
+    {
+        "name": "Kab. Belitung",
+        "latitude": "-2.8708937999999997",
+        "longitude": "107.95318359999999"
+    },
+    {
+        "name": "Kab. Bangka Barat",
+        "latitude": "-2.2884782",
+        "longitude": "106.0640179"
+    },
+    {
+        "name": "Kab. Bangka Tengah",
+        "latitude": "-2.2884782",
+        "longitude": "106.0640179"
+    },
+    {
+        "name": "Kab. Bangka Selatan",
+        "latitude": "-2.2884782",
+        "longitude": "106.0640179"
+    },
+    {
+        "name": "Kab. Belitung Timur",
+        "latitude": "-2.8708937999999997",
+        "longitude": "107.95318359999999"
+    },
+    {
+        "name": "Kota Pangkal Pinang",
+        "latitude": "-2.129323",
+        "longitude": "106.109596"
+    },
+    {
+        "name": "Kab. Karimun",
+        "latitude": "1.05",
+        "longitude": "103.3666667"
+    },
+    {
+        "name": "Kab. Bintan",
+        "latitude": "1.0619173000000002",
+        "longitude": "104.51892140000001"
+    },
+    {
+        "name": "Kab. Natuna",
+        "latitude": "3.9329945",
+        "longitude": "108.1812242"
+    },
+    {
+        "name": "Kab. Lingga",
+        "latitude": "-0.1627686",
+        "longitude": "104.6354631"
+    },
+    {
+        "name": "Kota Batam",
+        "latitude": "1.0456264000000002",
+        "longitude": "104.03045350000001"
+    },
+    {
+        "name": "Kota Tanjung Pinang",
+        "latitude": "0.9179205",
+        "longitude": "104.446464"
+    },
+    {
+        "name": "Kab. Kepulauan Seribu",
+        "latitude": "-5.7985266",
+        "longitude": "106.5071982"
+    },
+    {
+        "name": "Kota Jakarta Selatan",
+        "latitude": "-6.332973",
+        "longitude": "106.807915"
+    },
+    {
+        "name": "Kota Jakarta Timur",
+        "latitude": "-6.211544",
+        "longitude": "106.84517199999999"
+    },
+    {
+        "name": "Kota Jakarta Pusat",
+        "latitude": "-6.211544",
+        "longitude": "106.84517199999999"
+    },
+    {
+        "name": "Kota Jakarta Barat",
+        "latitude": "-6.211544",
+        "longitude": "106.84517199999999"
+    },
+    {
+        "name": "Kota Jakarta Utara",
+        "latitude": "-6.211544",
+        "longitude": "106.84517199999999"
+    },
+    {
+        "name": "Kab. Bogor",
+        "latitude": "-6.6",
+        "longitude": "106.8"
+    },
+    {
+        "name": "Kab. Sukabumi",
+        "latitude": "-6.92405",
+        "longitude": "106.922203"
+    },
+    {
+        "name": "Kab. Cianjur",
+        "latitude": "-6.8172531",
+        "longitude": "107.13072890000001"
+    },
+    {
+        "name": "Kab. Bandung",
+        "latitude": "-6.9147444",
+        "longitude": "107.6098111"
+    },
+    {
+        "name": "Kab. Garut",
+        "latitude": "-7.227906",
+        "longitude": "107.908699"
+    },
+    {
+        "name": "Kab. Tasikmalaya",
+        "latitude": "-7.327953999999999",
+        "longitude": "108.214104"
+    },
+    {
+        "name": "Kab. Ciamis",
+        "latitude": "-7.3333333",
+        "longitude": "108.35"
+    },
+    {
+        "name": "Kab. Kuningan",
+        "latitude": "-6.9833333",
+        "longitude": "108.48333329999998"
+    },
+    {
+        "name": "Kab. Cirebon",
+        "latitude": "-6.715534",
+        "longitude": "108.564003"
+    },
+    {
+        "name": "Kab. Majalengka",
+        "latitude": "-6.8531026",
+        "longitude": "108.22588970000001"
+    },
+    {
+        "name": "Kab. Sumedang",
+        "latitude": "0.6095949",
+        "longitude": "110.0330554"
+    },
+    {
+        "name": "Kab. Indramayu",
+        "latitude": "-6.336315",
+        "longitude": "108.32510400000001"
+    },
+    {
+        "name": "Kab. Subang",
+        "latitude": "-6.569361",
+        "longitude": "107.752403"
+    },
+    {
+        "name": "Kab. Purwakarta",
+        "latitude": "-6.538680599999999",
+        "longitude": "107.4499404"
+    },
+    {
+        "name": "Kab. Karawang",
+        "latitude": "-6.3227303",
+        "longitude": "107.3375791"
+    },
+    {
+        "name": "Kab. Bekasi",
+        "latitude": "-6.2333333",
+        "longitude": "107.0"
+    },
+    {
+        "name": "Kab. Bandung Barat",
+        "latitude": "-6.8937121",
+        "longitude": "107.4321959"
+    },
+    {
+        "name": "Kota Bogor",
+        "latitude": "-6.6",
+        "longitude": "106.8"
+    },
+    {
+        "name": "Kota Sukabumi",
+        "latitude": "-6.92405",
+        "longitude": "106.922203"
+    },
+    {
+        "name": "Kota Bandung",
+        "latitude": "-6.9147444",
+        "longitude": "107.6098111"
+    },
+    {
+        "name": "Kota Cirebon",
+        "latitude": "-6.715534",
+        "longitude": "108.564003"
+    },
+    {
+        "name": "Kota Bekasi",
+        "latitude": "-6.2333333",
+        "longitude": "107.0"
+    },
+    {
+        "name": "Kota Depok",
+        "latitude": "-6.39",
+        "longitude": "106.83"
+    },
+    {
+        "name": "Kota Cimahi",
+        "latitude": "-6.8802389999999995",
+        "longitude": "107.5355"
+    },
+    {
+        "name": "Kota Tasikmalaya",
+        "latitude": "-7.327953999999999",
+        "longitude": "108.214104"
+    },
+    {
+        "name": "Kota Banjar",
+        "latitude": "-7.366666700000001",
+        "longitude": "108.53333329999998"
+    },
+    {
+        "name": "Kab. Cilacap",
+        "latitude": "-7.733333",
+        "longitude": "109.0"
+    },
+    {
+        "name": "Kab. Banyumas",
+        "latitude": "-7.4832133",
+        "longitude": "109.14043799999999"
+    },
+    {
+        "name": "Kab. Purbalingga",
+        "latitude": "-7.390747",
+        "longitude": "109.3638"
+    },
+    {
+        "name": "Kab. Banjarnegara",
+        "latitude": "-7.402705999999999",
+        "longitude": "109.68139599999999"
+    },
+    {
+        "name": "Kab. Kebumen",
+        "latitude": "-7.678682000000001",
+        "longitude": "109.656502"
+    },
+    {
+        "name": "Kab. Purworejo",
+        "latitude": "-7.709731",
+        "longitude": "110.008003"
+    },
+    {
+        "name": "Kab. Wonosobo",
+        "latitude": "-7.362108999999999",
+        "longitude": "109.899399"
+    },
+    {
+        "name": "Kab. Magelang",
+        "latitude": "-7.481253",
+        "longitude": "110.213799"
+    },
+    {
+        "name": "Kab. Boyolali",
+        "latitude": "-7.5238190000000005",
+        "longitude": "110.595901"
+    },
+    {
+        "name": "Kab. Klaten",
+        "latitude": "-7.7116869999999995",
+        "longitude": "110.595497"
+    },
+    {
+        "name": "Kab. Sukoharjo",
+        "latitude": "-7.6808818",
+        "longitude": "110.81952920000002"
+    },
+    {
+        "name": "Kab. Wonogiri",
+        "latitude": "-7.817782000000001",
+        "longitude": "110.920601"
+    },
+    {
+        "name": "Kab. Karanganyar",
+        "latitude": "-7.596111099999999",
+        "longitude": "110.95083329999999"
+    },
+    {
+        "name": "Kab. Sragen",
+        "latitude": "-7.430229",
+        "longitude": "111.021301"
+    },
+    {
+        "name": "Kab. Grobogan",
+        "latitude": "-7.0217194",
+        "longitude": "110.96258540000001"
+    },
+    {
+        "name": "Kab. Blora",
+        "latitude": "-6.95",
+        "longitude": "111.41666670000001"
+    },
+    {
+        "name": "Kab. Rembang",
+        "latitude": "-6.711239999999999",
+        "longitude": "111.345299"
+    },
+    {
+        "name": "Kab. Pati",
+        "latitude": "-6.7513380000000005",
+        "longitude": "111.038002"
+    },
+    {
+        "name": "Kab. Kudus",
+        "latitude": "-6.804086999999999",
+        "longitude": "110.83820300000001"
+    },
+    {
+        "name": "Kab. Jepara",
+        "latitude": "-6.559605900000001",
+        "longitude": "110.6717"
+    },
+    {
+        "name": "Kab. Demak",
+        "latitude": "-6.888114999999999",
+        "longitude": "110.639297"
+    },
+    {
+        "name": "Kab. Semarang",
+        "latitude": "-6.9666667",
+        "longitude": "110.41666670000001"
+    },
+    {
+        "name": "Kab. Temanggung",
+        "latitude": "-7.316669",
+        "longitude": "110.174797"
+    },
+    {
+        "name": "Kab. Kendal",
+        "latitude": "-6.9196860000000004",
+        "longitude": "110.205597"
+    },
+    {
+        "name": "Kab. Batang",
+        "latitude": "-6.894111099999999",
+        "longitude": "109.72345190000001"
+    },
+    {
+        "name": "Kab. Pekalongan",
+        "latitude": "-6.882886999999999",
+        "longitude": "109.66999799999999"
+    },
+    {
+        "name": "Kab. Pemalang",
+        "latitude": "-6.884233999999999",
+        "longitude": "109.377998"
+    },
+    {
+        "name": "Kab. Tegal",
+        "latitude": "-6.866666700000001",
+        "longitude": "109.13333329999999"
+    },
+    {
+        "name": "Kab. Brebes",
+        "latitude": "-6.883333299999999",
+        "longitude": "109.05"
+    },
+    {
+        "name": "Kota Magelang",
+        "latitude": "-7.481253",
+        "longitude": "110.213799"
+    },
+    {
+        "name": "Kota Surakarta",
+        "latitude": "-7.5666667",
+        "longitude": "110.81666670000001"
+    },
+    {
+        "name": "Kota Salatiga",
+        "latitude": "-7.302328",
+        "longitude": "110.4729"
+    },
+    {
+        "name": "Kota Semarang",
+        "latitude": "-6.9666667",
+        "longitude": "110.41666670000001"
+    },
+    {
+        "name": "Kota Pekalongan",
+        "latitude": "-6.882886999999999",
+        "longitude": "109.66999799999999"
+    },
+    {
+        "name": "Kota Tegal",
+        "latitude": "-6.866666700000001",
+        "longitude": "109.13333329999999"
+    },
+    {
+        "name": "Kab. Kulon Progo",
+        "latitude": "-7.8266798",
+        "longitude": "110.1640846"
+    },
+    {
+        "name": "Kab. Bantul",
+        "latitude": "-7.884611099999999",
+        "longitude": "110.3341111"
+    },
+    {
+        "name": "Kab. Gunung Kidul",
+        "latitude": "-8.0305091",
+        "longitude": "110.61689209999999"
+    },
+    {
+        "name": "Kota Yogyakarta",
+        "latitude": "-7.797224000000001",
+        "longitude": "110.368797"
+    },
+    {
+        "name": "Kab. Pandeglang",
+        "latitude": "-6.3148349999999995",
+        "longitude": "106.103897"
+    },
+    {
+        "name": "Kab. Lebak",
+        "latitude": "-6.564395599999999",
+        "longitude": "106.25221429999999"
+    },
+    {
+        "name": "Kab. Tangerang",
+        "latitude": "-6.1783056",
+        "longitude": "106.63188889999999"
+    },
+    {
+        "name": "Kab. Serang",
+        "latitude": "-6.12009",
+        "longitude": "106.150299"
+    },
+    {
+        "name": "Kota Tangerang",
+        "latitude": "-6.1783056",
+        "longitude": "106.63188889999999"
+    },
+    {
+        "name": "Kota Cilegon",
+        "latitude": "-6.0169825",
+        "longitude": "106.04050600000001"
+    },
+    {
+        "name": "Kota Serang",
+        "latitude": "-6.12009",
+        "longitude": "106.150299"
+    },
+    {
+        "name": "Kab. Jembrana",
+        "latitude": "-8.361852",
+        "longitude": "114.6418"
+    },
+    {
+        "name": "Kab. Tabanan",
+        "latitude": "-8.544516",
+        "longitude": "115.11979699999999"
+    },
+    {
+        "name": "Kab. Badung",
+        "latitude": "-8.5819296",
+        "longitude": "115.1770586"
+    },
+    {
+        "name": "Kab. Gianyar",
+        "latitude": "-8.544185",
+        "longitude": "115.3255"
+    },
+    {
+        "name": "Kab. Klungkung",
+        "latitude": "-8.5389222",
+        "longitude": "115.40451110000001"
+    },
+    {
+        "name": "Kab. Bangli",
+        "latitude": "-8.454303",
+        "longitude": "115.354897"
+    },
+    {
+        "name": "Kab. Karang Asem",
+        "latitude": "-6.3996057",
+        "longitude": "108.05030420000001"
+    },
+    {
+        "name": "Kab. Buleleng",
+        "latitude": "-8.113831",
+        "longitude": "115.126999"
+    },
+    {
+        "name": "Kota Denpasar",
+        "latitude": "-8.65629",
+        "longitude": "115.222099"
+    },
+    {
+        "name": "Kab. Lombok Barat",
+        "latitude": "-8.6464599",
+        "longitude": "116.1123078"
+    },
+    {
+        "name": "Kab. Lombok Tengah",
+        "latitude": "-8.694623",
+        "longitude": "116.27770729999999"
+    },
+    {
+        "name": "Kab. Lombok Timur",
+        "latitude": "-8.513447099999999",
+        "longitude": "116.5609857"
+    },
+    {
+        "name": "Kab. Sumbawa",
+        "latitude": "-8.6529334",
+        "longitude": "117.3616476"
+    },
+    {
+        "name": "Kab. Dompu",
+        "latitude": "-8.496631800000001",
+        "longitude": "118.4747173"
+    },
+    {
+        "name": "Kab. Bima",
+        "latitude": "-8.460566",
+        "longitude": "118.727402"
+    },
+    {
+        "name": "Kab. Sumbawa Barat",
+        "latitude": "-8.9292907",
+        "longitude": "116.89103419999999"
+    },
+    {
+        "name": "Kota Mataram",
+        "latitude": "-8.583333300000001",
+        "longitude": "116.11666670000001"
+    },
+    {
+        "name": "Kota Bima",
+        "latitude": "-8.460566",
+        "longitude": "118.727402"
+    },
+    {
+        "name": "Kab. Sumba Barat",
+        "latitude": "-9.6548326",
+        "longitude": "119.3947135"
+    },
+    {
+        "name": "Kab. Sumba Timur",
+        "latitude": "-9.9802103",
+        "longitude": "120.3435506"
+    },
+    {
+        "name": "Kab. Kupang",
+        "latitude": "-10.183333300000001",
+        "longitude": "123.58333329999999"
+    },
+    {
+        "name": "Kab. Timor Tengah Selatan",
+        "latitude": "-9.776281599999999",
+        "longitude": "124.4198243"
+    },
+    {
+        "name": "Kab. Timor Tengah Utara",
+        "latitude": "-9.452264699999999",
+        "longitude": "124.597132"
+    },
+    {
+        "name": "Kab. Belu",
+        "latitude": "-9.4125796",
+        "longitude": "124.9506625"
+    },
+    {
+        "name": "Kab. Alor",
+        "latitude": "-8.2754027",
+        "longitude": "124.72987649999999"
+    },
+    {
+        "name": "Kab. Lembata",
+        "latitude": "-8.4719075",
+        "longitude": "123.4831906"
+    },
+    {
+        "name": "Kab. Flores Timur",
+        "latitude": "-8.3130942",
+        "longitude": "122.9663018"
+    },
+    {
+        "name": "Kab. Sikka",
+        "latitude": "-8.6766175",
+        "longitude": "122.12918429999999"
+    },
+    {
+        "name": "Kab. Ende",
+        "latitude": "-8.854053",
+        "longitude": "121.654198"
+    },
+    {
+        "name": "Kab. Ngada",
+        "latitude": "-8.7430424",
+        "longitude": "120.9876321"
+    },
+    {
+        "name": "Kab. Manggarai",
+        "latitude": "-8.6796987",
+        "longitude": "120.38966509999999"
+    },
+    {
+        "name": "Kab. Rote Ndao",
+        "latitude": "-10.7386421",
+        "longitude": "123.12390490000001"
+    },
+    {
+        "name": "Kab. Manggarai Barat",
+        "latitude": "-8.668814900000001",
+        "longitude": "120.0665236"
+    },
+    {
+        "name": "Kab. Sumba Tengah",
+        "latitude": "-9.4879226",
+        "longitude": "119.69626770000002"
+    },
+    {
+        "name": "Kab. Sumba Barat Daya",
+        "latitude": "-9.539139",
+        "longitude": "119.13906419999999"
+    },
+    {
+        "name": "Kab. Nagekeo",
+        "latitude": "-8.6753545",
+        "longitude": "121.3084088"
+    },
+    {
+        "name": "Kab. Manggarai Timur",
+        "latitude": "-8.6206712",
+        "longitude": "120.6199895"
+    },
+    {
+        "name": "Kota Kupang",
+        "latitude": "-10.183333300000001",
+        "longitude": "123.58333329999999"
+    },
+    {
+        "name": "Kab. Sambas",
+        "latitude": "1.361328",
+        "longitude": "109.309998"
+    },
+    {
+        "name": "Kab. Bengkayang",
+        "latitude": "0.8209728999999999",
+        "longitude": "109.477699"
+    },
+    {
+        "name": "Kab. Landak",
+        "latitude": "0.4237287",
+        "longitude": "109.7591675"
+    },
+    {
+        "name": "Kab. Pontianak",
+        "latitude": "-0.022522999999999998",
+        "longitude": "109.330307"
+    },
+    {
+        "name": "Kab. Sanggau",
+        "latitude": "0.119275",
+        "longitude": "110.597298"
+    },
+    {
+        "name": "Kab. Ketapang",
+        "latitude": "-1.859098",
+        "longitude": "109.971901"
+    },
+    {
+        "name": "Kab. Sintang",
+        "latitude": "0.080238",
+        "longitude": "111.495499"
+    },
+    {
+        "name": "Kab. Kapuas Hulu",
+        "latitude": "-0.7931004",
+        "longitude": "113.90606240000001"
+    },
+    {
+        "name": "Kab. Sekadau",
+        "latitude": "0.015637",
+        "longitude": "110.888603"
+    },
+    {
+        "name": "Kab. Melawi",
+        "latitude": "-0.7000681",
+        "longitude": "111.66607250000001"
+    },
+    {
+        "name": "Kab. Kayong Utara",
+        "latitude": "-0.9225877",
+        "longitude": "110.0449662"
+    },
+    {
+        "name": "Kab. Kubu Raya",
+        "latitude": "-0.35339380000000004",
+        "longitude": "109.4735066"
+    },
+    {
+        "name": "Kota Pontianak",
+        "latitude": "-0.022522999999999998",
+        "longitude": "109.330307"
+    },
+    {
+        "name": "Kota Singkawang",
+        "latitude": "0.908795",
+        "longitude": "108.984596"
+    },
+    {
+        "name": "Kab. Kotawaringin Barat",
+        "latitude": "-6.1961131",
+        "longitude": "106.86301740000002"
+    },
+    {
+        "name": "Kab. Kotawaringin Timur",
+        "latitude": "-6.1952992",
+        "longitude": "106.8630737"
+    },
+    {
+        "name": "Kab. Kapuas",
+        "latitude": "-0.045997199999999995",
+        "longitude": "110.1313251"
+    },
+    {
+        "name": "Kab. Barito Selatan",
+        "latitude": "-1.8759430000000001",
+        "longitude": "114.8092691"
+    },
+    {
+        "name": "Kab. Barito Utara",
+        "latitude": "-0.9587136",
+        "longitude": "115.094045"
+    },
+    {
+        "name": "Kab. Sukamara",
+        "latitude": "-2.6267517000000002",
+        "longitude": "111.2368084"
+    },
+    {
+        "name": "Kab. Lamandau",
+        "latitude": "-1.9269166000000002",
+        "longitude": "111.18911509999998"
+    },
+    {
+        "name": "Kab. Seruyan",
+        "latitude": "-3.0123467",
+        "longitude": "112.42914640000002"
+    },
+    {
+        "name": "Kab. Katingan",
+        "latitude": "-0.9758379",
+        "longitude": "112.8105512"
+    },
+    {
+        "name": "Kab. Pulang Pisau",
+        "latitude": "-2.6849607000000004",
+        "longitude": "113.9536466"
+    },
+    {
+        "name": "Kab. Gunung Mas",
+        "latitude": "-6.705277799999999",
+        "longitude": "106.99138889999999"
+    },
+    {
+        "name": "Kab. Barito Timur",
+        "latitude": "-2.0123999",
+        "longitude": "115.18891599999999"
+    },
+    {
+        "name": "Kab. Murung Raya",
+        "latitude": "-0.1362171",
+        "longitude": "114.3341432"
+    },
+    {
+        "name": "Kota Palangka Raya",
+        "latitude": "-2.21",
+        "longitude": "113.92"
+    },
+    {
+        "name": "Kab. Tanah Laut",
+        "latitude": "-3.7694047",
+        "longitude": "114.8092691"
+    },
+    {
+        "name": "Kab. Kota Baru",
+        "latitude": "-6.332973",
+        "longitude": "106.807915"
+    },
+    {
+        "name": "Kab. Banjar",
+        "latitude": "-7.366666700000001",
+        "longitude": "108.53333329999998"
+    },
+    {
+        "name": "Kab. Barito Kuala",
+        "latitude": "-3.0714737999999997",
+        "longitude": "114.6667939"
+    },
+    {
+        "name": "Kab. Tapin",
+        "latitude": "-2.9160746",
+        "longitude": "115.0465991"
+    },
+    {
+        "name": "Kab. Hulu Sungai Selatan",
+        "latitude": "-2.7662681",
+        "longitude": "115.23634080000001"
+    },
+    {
+        "name": "Kab. Hulu Sungai Tengah",
+        "latitude": "-2.6153162",
+        "longitude": "115.5207358"
+    },
+    {
+        "name": "Kab. Hulu Sungai Utara",
+        "latitude": "-2.4421225",
+        "longitude": "115.18891599999999"
+    },
+    {
+        "name": "Kab. Tabalong",
+        "latitude": "-1.8643020000000001",
+        "longitude": "115.5681084"
+    },
+    {
+        "name": "Kab. Tanah Bumbu",
+        "latitude": "-3.4512244",
+        "longitude": "115.5681084"
+    },
+    {
+        "name": "Kab. Balangan",
+        "latitude": "-2.3260425",
+        "longitude": "115.61547320000001"
+    },
+    {
+        "name": "Kota Banjarmasin",
+        "latitude": "-3.328499",
+        "longitude": "114.589203"
+    },
+    {
+        "name": "Kota Banjar Baru",
+        "latitude": "-3.4666667",
+        "longitude": "114.75"
+    },
+    {
+        "name": "Kab. Paser",
+        "latitude": "-1.7175266",
+        "longitude": "115.9467997"
+    },
+    {
+        "name": "Kab. Kutai Barat",
+        "latitude": "0.1353881",
+        "longitude": "115.094045"
+    },
+    {
+        "name": "Kab. Kutai Kartanegara",
+        "latitude": "-0.1336655",
+        "longitude": "116.6081653"
+    },
+    {
+        "name": "Kab. Kutai Timur",
+        "latitude": "0.9433773999999999",
+        "longitude": "116.9852422"
+    },
+    {
+        "name": "Kab. Berau",
+        "latitude": "2.0450883",
+        "longitude": "117.3616476"
+    },
+    {
+        "name": "Kab. Malinau",
+        "latitude": "3.584221",
+        "longitude": "116.647797"
+    },
+    {
+        "name": "Kab. Bulungan",
+        "latitude": "2.9042476",
+        "longitude": "116.9852422"
+    },
+    {
+        "name": "Kab. Nunukan",
+        "latitude": "4.0609227",
+        "longitude": "117.666952"
+    },
+    {
+        "name": "Kab. Penajam Paser Utara",
+        "latitude": "-1.2917094",
+        "longitude": "116.51379640000002"
+    },
+    {
+        "name": "Kab. Tana Tidung",
+        "latitude": "3.5518690000000004",
+        "longitude": "117.07940819999999"
+    },
+    {
+        "name": "Kota Balikpapan",
+        "latitude": "-1.2635389",
+        "longitude": "116.82788329999998"
+    },
+    {
+        "name": "Kota Samarinda",
+        "latitude": "-0.502183",
+        "longitude": "117.153801"
+    },
+    {
+        "name": "Kota Tarakan",
+        "latitude": "3.3",
+        "longitude": "117.63333329999999"
+    },
+    {
+        "name": "Kota Bontang",
+        "latitude": "0.1333333",
+        "longitude": "117.5"
+    },
+    {
+        "name": "Kab. Bolaang Mongondow",
+        "latitude": "0.6870994",
+        "longitude": "124.0641419"
+    },
+    {
+        "name": "Kab. Minahasa",
+        "latitude": "1.0",
+        "longitude": "124.58333329999999"
+    },
+    {
+        "name": "Kab. Kepulauan Sangihe",
+        "latitude": "3.5303212",
+        "longitude": "125.54389669999999"
+    },
+    {
+        "name": "Kab. Kepulauan Talaud",
+        "latitude": "4.092",
+        "longitude": "126.76799999999999"
+    },
+    {
+        "name": "Kab. Minahasa Selatan",
+        "latitude": "1.0946773",
+        "longitude": "124.4641848"
+    },
+    {
+        "name": "Kab. Minahasa Utara",
+        "latitude": "1.5327973",
+        "longitude": "124.99475100000001"
+    },
+    {
+        "name": "Kab. Bolaang Mongondow Utara",
+        "latitude": "0.818691",
+        "longitude": "123.52800719999999"
+    },
+    {
+        "name": "Kab. Siau Tagulandang Biaro",
+        "latitude": "2.345964",
+        "longitude": "125.4124355"
+    },
+    {
+        "name": "Kab. Minahasa Tenggara",
+        "latitude": "1.0278551",
+        "longitude": "124.72987649999999"
+    },
+    {
+        "name": "Kota Manado",
+        "latitude": "1.4917014",
+        "longitude": "124.84284299999999"
+    },
+    {
+        "name": "Kota Bitung",
+        "latitude": "1.4553528999999998",
+        "longitude": "125.204697"
+    },
+    {
+        "name": "Kota Tomohon",
+        "latitude": "1.3234131000000002",
+        "longitude": "124.8384504"
+    },
+    {
+        "name": "Kota Kotamobagu",
+        "latitude": "0.7333333000000001",
+        "longitude": "124.31666670000001"
+    },
+    {
+        "name": "Kab. Banggai Kepulauan",
+        "latitude": "-1.6408136999999998",
+        "longitude": "123.55040759999999"
+    },
+    {
+        "name": "Kab. Banggai",
+        "latitude": "-1.6408136999999998",
+        "longitude": "123.55040759999999"
+    },
+    {
+        "name": "Kab. Morowali",
+        "latitude": "-2.3003072",
+        "longitude": "121.5370003"
+    },
+    {
+        "name": "Kab. Poso",
+        "latitude": "-1.3919219999999999",
+        "longitude": "120.766998"
+    },
+    {
+        "name": "Kab. Donggala",
+        "latitude": "-0.42331549999999996",
+        "longitude": "119.8352303"
+    },
+    {
+        "name": "Kab. Toli-Toli",
+        "latitude": "0.8768231",
+        "longitude": "120.7579834"
+    },
+    {
+        "name": "Kab. Buol",
+        "latitude": "0.9695451999999999",
+        "longitude": "121.35416310000001"
+    },
+    {
+        "name": "Kab. Parigi Moutong",
+        "latitude": "0.5817607",
+        "longitude": "120.80394740000001"
+    },
+    {
+        "name": "Kab. Tojo Una-Una",
+        "latitude": "-1.098757",
+        "longitude": "121.5370003"
+    },
+    {
+        "name": "Kota Palu",
+        "latitude": "-0.898583",
+        "longitude": "119.850601"
+    },
+    {
+        "name": "Kab. Selayar",
+        "latitude": "-6.0",
+        "longitude": "120.5"
+    },
+    {
+        "name": "Kab. Bulukumba",
+        "latitude": "-5.432936799999999",
+        "longitude": "120.20510959999999"
+    },
+    {
+        "name": "Kab. Bantaeng",
+        "latitude": "-5.5169315999999995",
+        "longitude": "120.02029640000002"
+    },
+    {
+        "name": "Kab. Jeneponto",
+        "latitude": "-5.554579",
+        "longitude": "119.6730939"
+    },
+    {
+        "name": "Kab. Takalar",
+        "latitude": "-5.4162493",
+        "longitude": "119.48756680000001"
+    },
+    {
+        "name": "Kab. Gowa",
+        "latitude": "-5.3102887999999995",
+        "longitude": "119.742604"
+    },
+    {
+        "name": "Kab. Sinjai",
+        "latitude": "-5.2171961",
+        "longitude": "120.11273500000001"
+    },
+    {
+        "name": "Kab. Maros",
+        "latitude": "-4.94695",
+        "longitude": "119.578903"
+    },
+    {
+        "name": "Kab. Pangkajene Dan Kepulauan",
+        "latitude": "-4.805035",
+        "longitude": "119.55716770000001"
+    },
+    {
+        "name": "Kab. Barru",
+        "latitude": "-4.4172651",
+        "longitude": "119.6730939"
+    },
+    {
+        "name": "Kab. Bone",
+        "latitude": "-2.083333",
+        "longitude": "120.21666699999999"
+    },
+    {
+        "name": "Kab. Soppeng",
+        "latitude": "-4.3518541",
+        "longitude": "119.92779469999999"
+    },
+    {
+        "name": "Kab. Wajo",
+        "latitude": "-4.022229",
+        "longitude": "120.0665236"
+    },
+    {
+        "name": "Kab. Sidenreng Rappang",
+        "latitude": "-3.7738981",
+        "longitude": "120.02029640000002"
+    },
+    {
+        "name": "Kab. Pinrang",
+        "latitude": "-3.793071",
+        "longitude": "119.6408"
+    },
+    {
+        "name": "Kab. Enrekang",
+        "latitude": "-3.563128",
+        "longitude": "119.7612"
+    },
+    {
+        "name": "Kab. Luwu",
+        "latitude": "-3.3052214",
+        "longitude": "120.2512728"
+    },
+    {
+        "name": "Kab. Tana Toraja",
+        "latitude": "-3.0753003",
+        "longitude": "119.742604"
+    },
+    {
+        "name": "Kab. Luwu Utara",
+        "latitude": "-2.2690446",
+        "longitude": "119.9740534"
+    },
+    {
+        "name": "Kab. Luwu Timur",
+        "latitude": "-2.5825517999999996",
+        "longitude": "121.1710389"
+    },
+    {
+        "name": "Kota Makassar",
+        "latitude": "-5.133333299999999",
+        "longitude": "119.41666670000001"
+    },
+    {
+        "name": "Kota Pare-Pare",
+        "latitude": "-4.0166667",
+        "longitude": "119.6236111"
+    },
+    {
+        "name": "Kota Palopo",
+        "latitude": "-3.0",
+        "longitude": "120.2"
+    },
+    {
+        "name": "Kab. Buton",
+        "latitude": "-5.309635500000001",
+        "longitude": "122.98883190000001"
+    },
+    {
+        "name": "Kab. Muna",
+        "latitude": "-4.901629",
+        "longitude": "122.6277455"
+    },
+    {
+        "name": "Kab. Konawe",
+        "latitude": "-3.9380432",
+        "longitude": "122.08374450000001"
+    },
+    {
+        "name": "Kab. Kolaka",
+        "latitude": "-4.049665",
+        "longitude": "121.59380300000001"
+    },
+    {
+        "name": "Kab. Konawe Selatan",
+        "latitude": "-4.2027915",
+        "longitude": "122.44672379999999"
+    },
+    {
+        "name": "Kab. Bombana",
+        "latitude": "-4.6543462",
+        "longitude": "121.90179540000001"
+    },
+    {
+        "name": "Kab. Wakatobi",
+        "latitude": "-5.3264442",
+        "longitude": "123.59519250000001"
+    },
+    {
+        "name": "Kab. Kolaka Utara",
+        "latitude": "-3.1347227",
+        "longitude": "121.1710389"
+    },
+    {
+        "name": "Kab. Buton Utara",
+        "latitude": "-4.702342400000001",
+        "longitude": "123.0338767"
+    },
+    {
+        "name": "Kab. Konawe Utara",
+        "latitude": "-3.3803290999999995",
+        "longitude": "122.08374450000001"
+    },
+    {
+        "name": "Kota Kendari",
+        "latitude": "-3.972201",
+        "longitude": "122.51490279999999"
+    },
+    {
+        "name": "Kota Bau-Bau",
+        "latitude": "-5.46667",
+        "longitude": "122.633"
+    },
+    {
+        "name": "Kab. Boalemo",
+        "latitude": "0.7013419",
+        "longitude": "122.26538870000002"
+    },
+    {
+        "name": "Kab. Gorontalo",
+        "latitude": "0.5333333",
+        "longitude": "123.06666670000001"
+    },
+    {
+        "name": "Kab. Pohuwato",
+        "latitude": "0.7055278",
+        "longitude": "121.7195459"
+    },
+    {
+        "name": "Kab. Bone Bolango",
+        "latitude": "0.5657885",
+        "longitude": "123.34861470000001"
+    },
+    {
+        "name": "Kab. Gorontalo Utara",
+        "latitude": "0.9252646999999999",
+        "longitude": "122.4920088"
+    },
+    {
+        "name": "Kota Gorontalo",
+        "latitude": "0.5333333",
+        "longitude": "123.06666670000001"
+    },
+    {
+        "name": "Kab. Majene",
+        "latitude": "-3.0297251",
+        "longitude": "118.9062794"
+    },
+    {
+        "name": "Kab. Polewali Mandar",
+        "latitude": "-3.3419323",
+        "longitude": "119.13906419999999"
+    },
+    {
+        "name": "Kab. Mamasa",
+        "latitude": "-2.9601349999999997",
+        "longitude": "119.368202"
+    },
+    {
+        "name": "Kab. Mamuju",
+        "latitude": "-2.7293363999999998",
+        "longitude": "118.92957369999999"
+    },
+    {
+        "name": "Kab. Mamuju Utara",
+        "latitude": "-1.5264541999999999",
+        "longitude": "119.51077079999999"
+    },
+    {
+        "name": "Kab. Maluku Tenggara Barat",
+        "latitude": "-7.532264200000001",
+        "longitude": "131.3611121"
+    },
+    {
+        "name": "Kab. Maluku Tenggara",
+        "latitude": "-5.7512455000000005",
+        "longitude": "132.72715870000002"
+    },
+    {
+        "name": "Kab. Maluku Tengah",
+        "latitude": "-3.0166501",
+        "longitude": "129.48644109999998"
+    },
+    {
+        "name": "Kab. Buru Selatan",
+        "latitude": "-3.3927754",
+        "longitude": "126.7819505"
+    },
+    {
+        "name": "Kab. Kepulauan Aru",
+        "latitude": "-6.1946502",
+        "longitude": "134.5501935"
+    },
+    {
+        "name": "Kab. Seram Bagian Barat",
+        "latitude": "-3.1271575",
+        "longitude": "128.40083570000002"
+    },
+    {
+        "name": "Kab. Seram Bagian Timur",
+        "latitude": "-3.4150761",
+        "longitude": "130.39048799999998"
+    },
+    {
+        "name": "Kota Ambon",
+        "latitude": "-3.6560699999999997",
+        "longitude": "128.166419"
+    },
+    {
+        "name": "Kota Tual",
+        "latitude": "-5.6408510000000005",
+        "longitude": "132.7475093"
+    },
+    {
+        "name": "Kab. Halmahera Barat",
+        "latitude": "1.3121235",
+        "longitude": "128.4849923"
+    },
+    {
+        "name": "Kab. Halmahera Tengah",
+        "latitude": "1.3121235",
+        "longitude": "128.4849923"
+    },
+    {
+        "name": "Kab. Kepulauan Sula",
+        "latitude": "-1.8666667000000001",
+        "longitude": "125.36666670000001"
+    },
+    {
+        "name": "Kab. Halmahera Selatan",
+        "latitude": "1.3121235",
+        "longitude": "128.4849923"
+    },
+    {
+        "name": "Kab. Halmahera Utara",
+        "latitude": "1.3121235",
+        "longitude": "128.4849923"
+    },
+    {
+        "name": "Kab. Halmahera Timur",
+        "latitude": "1.3121235",
+        "longitude": "128.4849923"
+    },
+    {
+        "name": "Kota Ternate",
+        "latitude": "0.7833333",
+        "longitude": "127.36666670000001"
+    },
+    {
+        "name": "Kota Tidore Kepulauan",
+        "latitude": "0.6833333",
+        "longitude": "127.4"
+    },
+    {
+        "name": "Kab. Fakfak",
+        "latitude": "-2.885237",
+        "longitude": "132.26582820000002"
+    },
+    {
+        "name": "Kab. Kaimana",
+        "latitude": "-3.660925",
+        "longitude": "133.774506"
+    },
+    {
+        "name": "Kab. Teluk Wondama",
+        "latitude": "-2.8551699",
+        "longitude": "134.3236557"
+    },
+    {
+        "name": "Kab. Teluk Bintuni",
+        "latitude": "-1.9056848000000002",
+        "longitude": "133.329466"
+    },
+    {
+        "name": "Kab. Manokwari",
+        "latitude": "-0.8614530999999999",
+        "longitude": "134.06204209999999"
+    },
+    {
+        "name": "Kab. Sorong Selatan",
+        "latitude": "-0.8666666999999999",
+        "longitude": "131.25"
+    },
+    {
+        "name": "Kota Sorong",
+        "latitude": "-0.8666666999999999",
+        "longitude": "131.25"
+    },
+    {
+        "name": "Kab. Raja Ampat",
+        "latitude": "-1.0915151",
+        "longitude": "130.8778586"
+    },
+    {
+        "name": "Kab. Sorong",
+        "latitude": "-0.8666666999999999",
+        "longitude": "131.25"
+    },
+    {
+        "name": "Kab. Merauke",
+        "latitude": "-8.4960406",
+        "longitude": "140.39455269999996"
+    },
+    {
+        "name": "Kab. Jayawijaya",
+        "latitude": "-4.0004481",
+        "longitude": "138.7995122"
+    },
+    {
+        "name": "Kab. Jayapura",
+        "latitude": "-2.533",
+        "longitude": "140.717"
+    },
+    {
+        "name": "Kab. Nabire",
+        "latitude": "-3.5095462",
+        "longitude": "135.75209850000002"
+    },
+    {
+        "name": "Kab. Kepulauan Yapen",
+        "latitude": "-1.7469359",
+        "longitude": "136.17090119999997"
+    },
+    {
+        "name": "Kab. Biak Numfor",
+        "latitude": "-1.0381022",
+        "longitude": "135.98008480000001"
+    },
+    {
+        "name": "Kab. Paniai",
+        "latitude": "-3.7876441",
+        "longitude": "136.3624686"
+    },
+    {
+        "name": "Kab. Puncak Jaya",
+        "latitude": "-4.083611100000001",
+        "longitude": "137.18472219999998"
+    },
+    {
+        "name": "Kab. Mimika",
+        "latitude": "-4.4553223",
+        "longitude": "137.1362125"
+    },
+    {
+        "name": "Kab. Boven Digoel",
+        "latitude": "-5.7400018",
+        "longitude": "140.3481835"
+    },
+    {
+        "name": "Kab. Mappi",
+        "latitude": "-7.102232000000001",
+        "longitude": "139.396393"
+    },
+    {
+        "name": "Kab. Asmat",
+        "latitude": "-5.0573958",
+        "longitude": "138.3988186"
+    },
+    {
+        "name": "Kab. Yahukimo",
+        "latitude": "-4.4939717",
+        "longitude": "139.52799960000002"
+    },
+    {
+        "name": "Kab. Pegunungan Bintang",
+        "latitude": "-4.558987200000001",
+        "longitude": "140.51355890000002"
+    },
+    {
+        "name": "Kab. Tolikara",
+        "latitude": "-3.481132",
+        "longitude": "138.4787258"
+    },
+    {
+        "name": "Kab. Sarmi",
+        "latitude": "-1.868727",
+        "longitude": "138.743607"
+    },
+    {
+        "name": "Kab. Keerom",
+        "latitude": "-3.3449536",
+        "longitude": "140.76244930000001"
+    },
+    {
+        "name": "Kab. Waropen",
+        "latitude": "-2.8435717",
+        "longitude": "136.670534"
+    },
+    {
+        "name": "Kab. Supiori",
+        "latitude": "-0.7295099",
+        "longitude": "135.6385125"
+    },
+    {
+        "name": "Kab. Mamberamo Raya",
+        "latitude": "-2.5331255",
+        "longitude": "137.7637565"
+    },
+    {
+        "name": "Kota Jayapura",
+        "latitude": "-2.533",
+        "longitude": "140.717"
+    },
+    {
+        "name": "Kab. Labuhanbatu Utara",
+        "latitude": "2.3465637999999998",
+        "longitude": "99.8124935"
+    },
+    {
+        "name": "Kab. Labuhanbatu Selatan",
+        "latitude": "1.8799352999999999",
+        "longitude": "100.17032569999999"
+    },
+    {
+        "name": "Kab. Nias Utara",
+        "latitude": "1.1255278999999998",
+        "longitude": "97.5247243"
+    },
+    {
+        "name": "Kab. Nias Barat",
+        "latitude": "1.1255278999999998",
+        "longitude": "97.5247243"
+    },
+    {
+        "name": "Kota Gunungsitoli",
+        "latitude": "1.2819639999999999",
+        "longitude": "97.61594000000001"
+    },
+    {
+        "name": "Kab. Kepulauan Meranti",
+        "latitude": "0.9208765",
+        "longitude": "102.6675575"
+    },
+    {
+        "name": "Kab. Bengkulu Tengah",
+        "latitude": "-3.7955556000000006",
+        "longitude": "102.25916670000001"
+    },
+    {
+        "name": "Kab. Tulangbawang Barat",
+        "latitude": "-4.5256967",
+        "longitude": "105.0791228"
+    },
+    {
+        "name": "Kab. Pringsewu",
+        "latitude": "-5.3539884",
+        "longitude": "104.9622498"
+    },
+    {
+        "name": "Kab. Mesuji",
+        "latitude": "-4.0044783",
+        "longitude": "105.3131185"
+    },
+    {
+        "name": "Kab. n Anambas",
+        "latitude": "3.1055459",
+        "longitude": "105.6537231"
+    },
+    {
+        "name": "Kab. Sleman",
+        "latitude": "-7.716164999999999",
+        "longitude": "110.335403"
+    },
+    {
+        "name": "Kab. Lombok Utara",
+        "latitude": "-8.3739076",
+        "longitude": "116.27770729999999"
+    },
+    {
+        "name": "Kab. Sabu Raijua",
+        "latitude": "-10.554111599999999",
+        "longitude": "121.8334868"
+    },
+    {
+        "name": "Kab. Bolang Mongondow Timur",
+        "latitude": "0.7152651",
+        "longitude": "124.4641848"
+    },
+    {
+        "name": "Kab. Bolang Mongondow Selatan",
+        "latitude": "0.4053215",
+        "longitude": "123.84112879999999"
+    },
+    {
+        "name": "Kab. Sigi",
+        "latitude": "-1.3834127",
+        "longitude": "120.0665236"
+    },
+    {
+        "name": "Kab. Toraja Utara",
+        "latitude": "-2.8621942000000002",
+        "longitude": "119.8352303"
+    },
+    {
+        "name": "Kab. Maluku Barat Daya",
+        "latitude": "-7.7851588000000005",
+        "longitude": "126.34980970000001"
+    },
+    {
+        "name": "Kab. Buru",
+        "latitude": "-3.3927754",
+        "longitude": "126.7819505"
+    },
+    {
+        "name": "Kab. Pulau Morotai",
+        "latitude": "2.3656672000000003",
+        "longitude": "128.40083570000002"
+    },
+    {
+        "name": "Kab. Tambrauw",
+        "latitude": "-0.781856",
+        "longitude": "132.3938375"
+    },
+    {
+        "name": "Kab. Maybrat",
+        "latitude": "3.1472",
+        "longitude": "101.6997"
+    },
+    {
+        "name": "Kab. Mamberamo Tengah",
+        "latitude": "-2.3745692000000003",
+        "longitude": "138.31902759999997"
+    },
+    {
+        "name": "Kab. Yalimo",
+        "latitude": "-3.7852847",
+        "longitude": "139.4466005"
+    },
+    {
+        "name": "Kab. Lanny Jaya",
+        "latitude": "-3.9710330000000003",
+        "longitude": "138.31902759999997"
+    },
+    {
+        "name": "Kab. Nduga",
+        "latitude": "-4.4069496",
+        "longitude": "138.2393528"
+    },
+    {
+        "name": "Kab. Puncak",
+        "latitude": "-6.7125476",
+        "longitude": "106.9542425"
+    },
+    {
+        "name": "Kab. Dogiyai",
+        "latitude": "-4.019387200000001",
+        "longitude": "135.9610446"
+    },
+    {
+        "name": "Kab. Intan Jaya",
+        "latitude": "-3.5076422",
+        "longitude": "136.7478493"
+    },
+    {
+        "name": "Kab. Deiyai",
+        "latitude": "-4.0974892999999994",
+        "longitude": "136.4393054"
+    },
+    {
+        "name": "Kab. Siak",
+        "latitude": "0.7813060000000001",
+        "longitude": "101.833239"
+    }
+]
