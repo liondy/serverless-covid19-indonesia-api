@@ -146,6 +146,11 @@ const data = [
     Population: 26545863,
   },
   {
+    Country: "Canada",
+    Slug: "canada",
+    Population: 37742154,
+  },
+  {
     Country: "Cape Verde",
     Slug: "cape-verde",
     Population: 555987,
